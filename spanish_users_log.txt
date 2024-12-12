@@ -1,0 +1,8 @@
+İspaniyadan olan istifadəçilərin sayı: 6
+Adlar:
+Asunción Martínez
+Sofia Moreno
+Felipe Rubio
+Gabriel Hernández
+Mónica Álvarez
+Gustavo Gallardo
